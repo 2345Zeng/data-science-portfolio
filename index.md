@@ -14,6 +14,6 @@ I major in data science (computing language). I graduated from Northwestern Poly
 
 This project builds a Dash interactive dashboard. It generates line charts, bar charts and pie charts to show automobile sales trends. We observe sales drop during recessions and different advertising spending among vehicle types.
 
-Project repository link: https://github.com/2345Zeng/data‑science‑project
+Project repository link: [https://github.com/2345Zeng/data-science-project](https://github.com/2345Zeng/data-science-project)
 
 Project status: Completed
